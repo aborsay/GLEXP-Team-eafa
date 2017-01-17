@@ -15,6 +15,7 @@ NOTICE: this version is with all the Swahili images, audio, video and database. 
 3.	Find any layouts that needed to be cleaned up and thus associated classes that may or may not need use of fragments. 
 
 
+_______________________________________________________________________________________________________________________________________
 
 
 
