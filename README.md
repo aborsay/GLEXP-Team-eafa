@@ -1,7 +1,7 @@
 
 # This is a final version of the code before deadline of January 17th 2017. 
 
-NOTICE: this version is with all the Swahili images, audio, video and database. Those all will be eventually taken out of this repository and put in submitted material folder at https://et4d.app.box.com commit folder divided into separate folders per language
+NOTICE: this version is without images and audio meant for languages and the ENGLISH database. The audio, images for both languages and Swahili Database put in auplimental/content/*****  folder at https://et4d.app.box.com commit folder divided into separate folders per language
 
 #Issues still to be addressed in next few weeks are:
 1.	AppProvider.java in addressing a database issue that while the code works the way it is calling that database and not properly closing it causes rare and random application crashes due to database locked. I began to look at it in a version of the code that is not being submitted now. 
