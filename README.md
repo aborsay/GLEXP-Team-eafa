@@ -1,5 +1,5 @@
 
-# This is a final version as of January 17th 2017. 
+# Version as of January 17th 2017. 
 
 NOTICE: this version is without images and audio meant for languages and the ENGLISH database. The audio, images for both languages and Swahili Database put in auplimental/content/*****  folder at https://et4d.app.box.com commit folder divided into separate folders per language
 
@@ -13,6 +13,7 @@ NOTICE: this version is without images and audio meant for languages and the ENG
 1.	Get Application to have both languages and others in the future in one application folder and not copying and pasting when changing languages. The goal is to allow more than one version of the application based upon the different languages to be on any device.  aka have English and Swahili on same device but as different applications.
 2.	Cleaning all classes to get rid of unnecessary warnings. 
 3.	Find any layouts that needed to be cleaned up and thus associated classes that may or may not need use of fragments. 
+
 
 
 _______________________________________________________________________________________________________________________________________
