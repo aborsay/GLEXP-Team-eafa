@@ -1,5 +1,5 @@
 
-# This is a final version of the code before deadline of January 17th 2017. 
+# This is a final version as of January 17th 2017. 
 
 NOTICE: this version is without images and audio meant for languages and the ENGLISH database. The audio, images for both languages and Swahili Database put in auplimental/content/*****  folder at https://et4d.app.box.com commit folder divided into separate folders per language
 
